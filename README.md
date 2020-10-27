@@ -63,3 +63,5 @@ If you're interested in CAPES t-shirts, we parter with TeeSpring for those. Feel
 
 # Training & Professional Services
 While CAPES is a FOSS project and we'll attempt to support deployment questions via the Issues page, if you need training or PS, please feel free to check out some options over at [Perched](http://perched.io)
+
+<br>
